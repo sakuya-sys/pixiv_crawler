@@ -22,7 +22,7 @@
 
 执行以下命令
 
-```shell pip install . ```
+```pip install . ```
 
 <img width="562" height="130" alt="image" src="https://github.com/user-attachments/assets/85662c36-df7f-4cad-a1f0-5c30f7a5486e" />
 
